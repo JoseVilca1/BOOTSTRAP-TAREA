@@ -6,10 +6,14 @@
 let totalComida = 900 + 100;
 let totalBebida = 250 + 320;
 
+
 let total = totalComida + totalBebida;
+let diferencia = totalComida - totalBebida;
 
 console.log("El total de comida es: " + totalComida);
 console.log("El total de bebida es: " + totalBebida);
 console.log("El total de la cuenta es: " + total);
+
+console.log("El total de la direncia es: " + diferencia);
 
 
